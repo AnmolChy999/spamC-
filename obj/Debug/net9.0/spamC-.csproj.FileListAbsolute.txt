@@ -1,0 +1,15 @@
+/home/anmol/Documents/C#shitposting/spamC-/bin/Debug/net9.0/spamC-
+/home/anmol/Documents/C#shitposting/spamC-/bin/Debug/net9.0/spamC-.deps.json
+/home/anmol/Documents/C#shitposting/spamC-/bin/Debug/net9.0/spamC-.runtimeconfig.json
+/home/anmol/Documents/C#shitposting/spamC-/bin/Debug/net9.0/spamC-.dll
+/home/anmol/Documents/C#shitposting/spamC-/bin/Debug/net9.0/spamC-.pdb
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.GeneratedMSBuildEditorConfig.editorconfig
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.AssemblyInfoInputs.cache
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.AssemblyInfo.cs
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.csproj.CoreCompileInputs.cache
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.sourcelink.json
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.dll
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/refint/spamC-.dll
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.pdb
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/spamC-.genruntimeconfig.cache
+/home/anmol/Documents/C#shitposting/spamC-/obj/Debug/net9.0/ref/spamC-.dll

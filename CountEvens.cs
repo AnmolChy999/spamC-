@@ -9,7 +9,7 @@ namespace spamc
             int limit ;
             var input = Console.ReadLine();
 
-            while(!int.TryParse(input, out limit) || limit < 0 || limit > 50)
+            while(!int.TryParse(input, out limit) || limit < 1 || limit > 50)
             {
                 Console.WriteLine("Enter a valid number between 1 and 50:");
                 input = Console.ReadLine();
@@ -24,7 +24,7 @@ namespace spamc
                 int userInt;
                 while(!int.TryParse(userNum, out userInt))
                     {
-                                Console.WriteLine("Enter a valid integer");
+                                Console.WriteLine("Enter a valid integer"); 
                                 userNum = Console.ReadLine();
                     }
                 numbers[i] = userInt;
@@ -48,11 +48,12 @@ namespace spamc
             }
             else
             {
-                Console.WriteLine($"There are {count} even numbers");
+                Console.WriteLine($"There are {count} even numbers. And they were:");
                 foreach(int eve in evens)
                 {
-                    Console.WriteLine(eve);
+                    Console.Write($"\t{eve}");
                 }
+                Console.Write("\n");
             }
         }
     }

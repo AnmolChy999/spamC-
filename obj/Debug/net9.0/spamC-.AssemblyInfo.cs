@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spamC-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec433eac9d15b042bd15ea7d3eea93ca04b1b22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db5f5112b53a13f288f4082c8a67c91ad5f463d")]
 [assembly: System.Reflection.AssemblyProductAttribute("spamC-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spamC-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
