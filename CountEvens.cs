@@ -4,6 +4,8 @@ namespace spamc
     {
        public void EvenNumberCounter()
         {
+            Console.Clear();
+            Console.WriteLine("=== EVEN NUMBER COUNTER ===\n");
             Console.WriteLine("Enter how many numbers you want to enter:");
 
             int limit ;
@@ -48,10 +50,10 @@ namespace spamc
             }
             else
             {
-                Console.WriteLine($"There are {count} even numbers. And they were:");
+                Console.WriteLine($"There were {count} even numbers and they are: ");
                 foreach(int eve in evens)
                 {
-                    Console.Write($"\t{eve}");
+                    Console.Write($"{eve}\t");
                 }
                 Console.Write("\n");
             }
