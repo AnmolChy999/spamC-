@@ -15,9 +15,9 @@ namespace spamc
             }
             string wordToReverse = input;
 
+            Console.WriteLine("Reversed order of the word:");
             for(int i = wordToReverse.Length - 1; i >= 0; i--)
             {
-                Console.WriteLine("Reversed order of the word:");
                 Console.Write($"{wordToReverse[i]} ");
             }
             Console.WriteLine();
